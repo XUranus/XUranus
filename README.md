@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm XUranus</h1>
-<h3 align="center">A newbie C++ developer from China</h3>
+<h3 align="center">A newbie C++ developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuranus&label=Profile%20views&color=0e75b6&style=flat" alt="xuranus" /> </p>
 
